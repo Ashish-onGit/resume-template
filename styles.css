@@ -6,17 +6,18 @@
 }
 
 body {
-  background: linear-gradient(135deg, #eef2f7, #ffffff);
+  /* background: linear-gradient(135deg, #eef2f7, #ffffff); */
 }
 
 .resume {
   width: 210mm;
-  min-height: 297mm;
+  /* min-height: 297mm; */
   margin: 40px auto;
   background: #fff;
   padding: 40px;
   border-radius: 10px;
-  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.06);
+  border: 1px solid rgb(211, 211, 211);
+  /* box-shadow: 0 12px 35px rgba(0, 0, 0, 0.06); */
 }
 
 .header {
